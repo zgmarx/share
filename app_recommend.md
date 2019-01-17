@@ -8,4 +8,6 @@
 
 [spectacle](https://www.spectacleapp.com/) Move and resize windows with ease
 
+[appcleaner](https://freemacsoft.net/appcleaner/) Uninstall unwanted apps.
+
 [scrollreverser](https://pilotmoon.com/scrollreverser/)
