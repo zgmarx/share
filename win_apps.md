@@ -2,7 +2,7 @@
 
 ### [Tabby](https://tabby.sh/)
 
-Windows Terminal: Open Source, Highly Recommemded
+Windows Terminal: Open Source, Highly customizable
 
 ### [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 
