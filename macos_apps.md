@@ -1,13 +1,25 @@
 ## Recommemd Apps
 
-[alfred](https://www.alfredapp.com/) Be more productive
+### [alfred](https://www.alfredapp.com/)
 
-[evernote](https://evernote.com/intl/zh-cn/) DO write down everything
+Be more productive, Switch between Apps with keyboard
 
-[f.lux](https://justgetflux.com/) Protect your eyes
+### [spectacle](https://www.spectacleapp.com/)
 
-[spectacle](https://www.spectacleapp.com/) Move and resize windows with ease
+Move and resize windows with ease
 
-[appcleaner](https://freemacsoft.net/appcleaner/) Uninstall unwanted apps.
+### [appcleaner](https://freemacsoft.net/appcleaner/)
 
-[scrollreverser](https://pilotmoon.com/scrollreverser/)
+Uninstall unwanted apps.
+
+### [scrollreverser](https://pilotmoon.com/scrollreverser/)
+
+set your scroll the way you used to.
+
+### [f.lux](https://justgetflux.com/)
+
+Protect your eyes
+
+### [evernote](https://evernote.com/intl/zh-cn/)
+
+DO write down everything

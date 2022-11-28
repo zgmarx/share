@@ -10,15 +10,11 @@ Microsoft PowerToys is a set of utilities for power users to tune and streamline
 
 - Keyboard Manager
 
-```
 Keyboard Manager allows you to customize the keyboard to be more productive by remapping keys and creating your own keyboard shortcuts.
-```
 
 - PowerToys Run
 
-```
 Window Walker: Switch between Apps with keyboard
-```
 
 ### [Joplin](https://joplinapp.org/)
 
